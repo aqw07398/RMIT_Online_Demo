@@ -1,3 +1,4 @@
+## This is a file for assignment 1 on menu! 
 import sys
 
 def main():
